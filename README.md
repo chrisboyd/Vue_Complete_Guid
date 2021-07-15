@@ -1,2 +1,2 @@
-# Vue_Complete_Guid
+# Vue_Complete_Guide
  Course work for Udemy: Vue - The Complete Guide
